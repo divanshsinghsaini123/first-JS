@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ctrina{
+    background-image: url('girl-with-bmw-jh-1920x1080.jpg') ;
+}
